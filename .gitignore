@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+.venv/
+.uv-cache/
+.mplconfig/
+__pycache__/
+*.pyc
